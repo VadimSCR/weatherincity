@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="API_KEY">529dbc971bd5d8705b2db97db24db40b</string>
+    <string name="temperature">%.0f°</string>
+    <string name="min_max_temperature">%1$.0f°/%2$.0f°</string>
+    <string name="percent">Влажность: %1$d%%</string>
+    <string name="feel_like_temperature">Как ощущается: %1$.0f°</string>
+    <string name="wind_speed">Скорость ветра: %1$.0f m/s</string>
+    <string name="wind_direction">Направление ветра: %1$s</string>
+    <string name="edit_text">Введите город</string>
+    <string name="button">Обновить</string>
+</resources>
